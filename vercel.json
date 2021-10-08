@@ -1,0 +1,8 @@
+{
+  "rewrites": [
+    {
+      "source": "/api/:match*",
+      "destination": "https://my-music-api-six.vercel.app/:match*"
+    }
+  ]
+}
